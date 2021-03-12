@@ -1,0 +1,12 @@
+name: molwall
+channels:
+  - conda-forge
+  - anaconda
+  - rdkit
+  - defaults
+dependencies:
+  - ipywidgets
+  - notebook
+  - pandas
+  - rdkit
+  - voila
