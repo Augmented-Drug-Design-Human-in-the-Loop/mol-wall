@@ -1,4 +1,4 @@
-canonical,activity,molwt,molwt_gt_330
+SMILES,activity,molwt,molwt_gt_330
 CCCC=N[SH](=O)(O)C=Cc1ccccc1,0,239.34000000000003,False
 O=C(Nc1ccc2c(c1)OCO2)c1cnn2cccnc12,0,282.259,False
 N#Cc1c(N)n(CCNC(=O)c2cccs2)c2nc3ccccc3nc12,0,362.4180000000001,True

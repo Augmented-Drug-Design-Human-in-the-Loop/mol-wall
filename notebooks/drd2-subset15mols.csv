@@ -1,4 +1,4 @@
-canonical,activity,molwt,molwt_gt_330
+SMILES,activity,molwt,molwt_gt_330
 COc1ccc(OC)c(NC(=O)NCCc2cccc(Cl)c2)c1,0,334.803,True
 O=S(=O)(NC1CCC(N2CCC(c3ccccc3OCC(F)(F)F)CC2)CC1)c1cccc(OC(F)F)c1,1,562.6010000000005,True
 Cc1cc(C(=O)N2CCCC2)[nH]n1,0,179.223,False
